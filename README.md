@@ -1,6 +1,6 @@
-Hi 👋, I'm Nauman Jamil, a Sr. Full-Stack Ruby on Rails & JavaScript Developer, specializing in building scalable web applications, architecting robust backend and creating seamless user experiences.
+Hi 👋, I'm Nauman Jamil, a Sr. Full-Stack Developer, specializing in building scalable web applications, architecting robust backend and creating seamless user experiences.
 
-🔭 I’m currently working as a Freelance Full-Stack Ruby on Rails Engineer.
+🔭 I’m currently working as a Freelance Full-Stack Engineer.
 
 🌱 I’ve worked Ruby on Rails, JavaScript & ReactJS with Redux as well
 
